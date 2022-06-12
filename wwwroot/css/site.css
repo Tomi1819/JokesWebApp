@@ -23,6 +23,19 @@ a {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+.background {
+    max-width:100%;
+    padding:0 0 0 0;
+}
+.display-4 {
+    position: absolute;
+    top:20%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    padding:0 0 0 0;
+    font-size:3.5em;
+    color:white;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
