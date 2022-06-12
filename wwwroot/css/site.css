@@ -24,7 +24,7 @@ a {
   border-color: #1861ac;
 }
 .background {
-    max-width:100%;
+    width:100%;
     padding:0 0 0 0;
 }
 .display-4 {
@@ -35,6 +35,10 @@ a {
     padding:0 0 0 0;
     font-size:3.5em;
     color:white;
+}
+.container {
+    max-width:100%;
+    padding: 0 0 0 0;
 }
 
 /* Sticky footer styles
