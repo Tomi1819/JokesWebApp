@@ -24,7 +24,7 @@ a {
   border-color: #1861ac;
 }
 .background {
-    width:100%;
+    max-width:100%;
     padding:0 0 0 0;
 }
 .display-4 {
